@@ -1,19 +1,22 @@
 /* about us start */
- @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&family=Nunito:ital@1&family=Prata&family=Source+Sans+Pro:ital,wght@1,600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&family=Nunito:ital@1&family=Prata&family=Roboto:wght@500&family=Source+Sans+Pro:ital,wght@1,600&display=swap');
 .about{
   color: #26945F;
+  font-family: 'Roboto', sans-serif;
 }
 .section-a{
   color: #26945F;
+  font-family: 'Roboto', sans-serif;
 }
 .section-b{
   color: #FCA625;
+  font-family: 'Roboto', sans-serif;
 }
 .display-4 {
   font-size: 3.5rem;
   font-weight: 300;
   line-height: 1.2;
-  font-family: 'Nunito', sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 @media (max-width: 1200px) {
   .display-4 {
